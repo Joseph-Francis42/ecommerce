@@ -70,9 +70,3 @@ The compiled files will be created in the `/dist` directory, ready for hosting.
 
 ---
 
-## 📝 Submission Guidelines (Vibecoders)
-
-As per the Vibecoders submission path, this repository includes:
-- **Source Code**: Fully modular React + TS structures inside `src/`.
-- **Prompts Log**: The complete step-by-step sequence of developer prompts used to build this application is documented in [PROMPTS.md](file:///c:/Users/jobin/OneDrive/Desktop/budget/youtube/movie%20listing/chat%20room/blog/Ecommerce/PROMPTS.md). 
-- **PDF Generation**: To generate the PDF of the prompts used, simply open [PROMPTS.md](file:///c:/Users/jobin/OneDrive/Desktop/budget/youtube/movie%20listing/chat%20room/blog/Ecommerce/PROMPTS.md) in your editor (e.g. VS Code, Obsidian) and choose **Export to PDF**, or print to PDF using any markdown editor.
